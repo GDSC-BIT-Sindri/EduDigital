@@ -31,7 +31,7 @@ In this project, we have tried to identify some good resources for learning some
 
 <b> Application Link & Future Scope : </b>
 
-The app is currently in the testing phase, You will be able to access the app soon as it will be uploaded on the playstore :
+The app is currently in the testing phase, You will be able to access the app soon as it will be uploaded on the playstore : You can still check out <a href="./app/app-release.apk">here.</a>
 
 We are planning to give support for more languages like python and for more technologies like Android development, machine learning, etc
 and working to make that user freindly so that any user can add the questions they feel good this will make a good community,
